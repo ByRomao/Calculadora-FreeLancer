@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    background-color: blueviolet;
+}
+
+div h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table .btn{
+    padding: 20px;
+    margin: 2px 5px 2px 5px;
+    border-radius: 8px;
+}
+
+.botao{
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.especial-coluna{
+    padding: 10px;
+    border-radius: 8px;
+}
